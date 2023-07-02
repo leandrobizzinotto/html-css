@@ -10,10 +10,9 @@ Just for training
 
 ## Estrutura do Projeto
 
-Descreva a estrutura do projeto, destacando os principais arquivos e diretórios.
+- main
+  - [Spotfy](#Spotify)
 
-## Pré-requisitos
+### Spotify
 
-Declare quaisquer requisitos ou dependências necessários para executar o projeto localmente.
-
-![banner](banner.PNG)
+![banner](Spotfy/banner.PNG)
